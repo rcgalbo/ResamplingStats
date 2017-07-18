@@ -4,7 +4,7 @@
 
 > An introduction to Statistics, Python and R using words you know to explain things you don't
 
-This book was originally written in 1974 and reprinted due to dankness is one of the best introductions to statistical thinking. *Statistical thinking* meaning how we can comprehend information in a numerical way. The type of statistics this book introduces is referred to as Non-parametric Statistics which is a scary sounding term we can unpack. Non-parametric means that we aren't making assumptions about the thing that created the numbers and statistics means to use the numbers available to tell us things that we are interested in.
+This book was originally written in 1974 and reprinted due to dankness is one of the best introductions to statistical thinking. *Statistical thinking* meaning how we can comprehend information in a numerical way. The type of statistics this book introduces is referred to as Non-parametric Statistics which is a scary sounding term we can unpack. Non-parametric means that we aren't making assumptions about the thing that created the numbers and statistics means to use the available data to tell us things that we are interested in.
 
 These notebooks, which are written in both Python and R programming languages, use examples given in *Resampling* to explain concepts in probability and statistics by parsing them into modern programming languages. These are ready for you to explore and then use to do cool stuff with numbers in the real world and like impress people and stuff. If you don't have any previous programming experience GTFO! JK, the idea is we are going to introduce fancy programming stuff along the way. As a statistician unlike the mythical Data Scientist, people won't expect you to know every minute detail about the programming language you work in. This book will try to give you an understanding of the basic tools and how to use them in human speak. This book will absolutely not debate best practices in jargony words because that is what ytl;dr posts on Stack Overflow are for. Here we will introduce
 the thing, its name and why tf we'd even bother to mentioning it.
@@ -56,7 +56,7 @@ If you want to simply view these notebooks: you can view them on NB Viewer via t
 
 #### 5. Running the notebooks:
 
-    Now you should be able to `cd` into the repository you just cloned or unzipped so your prompt looks like `username:~/.../ResamplingStatistics/notebooks$` and run the command `jupyter notebooks` which will spin up a local jupyter notebook server and open your browser to something that looks like this:
+  Now you should be able to `cd` into the repository you just cloned or unzipped so your prompt looks like `username:~/.../ResamplingStatistics/notebooks$` and run the command `jupyter notebooks` which will spin up a local jupyter notebook server and open your browser to something that looks like this:
 
     ![jupyter notebook](http://jupyter.readthedocs.io/en/latest/_images/tryjupyter_file.png)
 
