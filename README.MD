@@ -6,3 +6,4 @@
 1. [The Resampling Method of Solving Problems](https://github.com/rgalbo/ResamplingStats/blob/master/1_ResamplingMethod.ipynb)
 2. [Basic Concepts In Probability and Statistics Pt. 1](https://github.com/rgalbo/ResamplingStats/blob/master/2_ProbabilityPt1.ipynb)
 3. [Basic Concepts In Probability and Statistics Pt. 2](https://github.com/rgalbo/ResamplingStats/blob/master/3_ProbabilityPt2.ipynb)
+4. [Probability Theory Pt. 1](https://github.com/rgalbo/ResamplingStats/blob/master/4_ProbTheory.ipynb)
