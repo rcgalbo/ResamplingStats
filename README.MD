@@ -9,3 +9,4 @@
 4. [Probability Theory Pt. 1](https://github.com/rgalbo/ResamplingStats/blob/master/4_ProbTheory.ipynb)
 5. [Probability Theory Pt. 1 Continued](https://github.com/rgalbo/ResamplingStats/blob/master/5_ProbTheoryCont.ipynb)
 6. [Probability Theory Pt. 2](https://github.com/rgalbo/ResamplingStats/blob/master/6_ProbTheoryPt2.ipynb)
+6. [Probability Theory Pt. 3](https://github.com/rgalbo/ResamplingStats/blob/master/7_ProbTheoryPt3.ipynb)
