@@ -11,3 +11,4 @@
 6. [Probability Theory Pt. 2](https://github.com/rgalbo/ResamplingStats/blob/master/6_ProbTheoryPt2.ipynb)
 7. [Probability Theory Pt. 3](https://github.com/rgalbo/ResamplingStats/blob/master/7_ProbTheoryPt3.ipynb)
 8. [Probability Theory Pt. 4: Estimating Probabilities from Finite Universes](https://github.com/rgalbo/ResamplingStats/blob/master/8_ProbTheoryPt4.ipynb)
+9. [On Variability in Sampling](https://github.com/rcgalbo/ResamplingStats/blob/master/9_OnVariabilityInSampling.ipynb)
